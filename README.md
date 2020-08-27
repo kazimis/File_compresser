@@ -16,6 +16,5 @@ vagrant ssh
 cd project
 node app.js
 ```
-### What features should we be looking for when marking your project?
-One of the most significant feature of this app is adding C++ adons in nodejs. I have also did error handling both in backend and front end to minimize the possibility of program to stop. Some effort is also put into user interface to give a good view of the web page. The python hashing function is called and the hashed password is not used in this application. However in future improvements it can be used when login and signup functionalities are added. The python functionality in this application is minimum. But one can use other major python libraries such as [numpy] and [pandas] when needed.
+
 
